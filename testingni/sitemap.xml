@@ -5,35 +5,35 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>index.html</loc>
-                 <lastmod>2025-03-10T03:26:21+00:00</lastmod>
+                 <loc>https://github.com/WebDesignSydneyAU/SWDA/blob/main/testingni/index.html</loc>
+                 <lastmod>2025-03-10T03:27:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>news.html</loc>
-                 <lastmod>2025-03-10T03:26:21+00:00</lastmod>
+                 <loc>https://github.com/WebDesignSydneyAU/SWDA/blob/main/testingni/privacy-policy.html</loc>
+                 <lastmod>2025-03-10T03:27:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>news/testig.html</loc>
-                 <lastmod>2025-03-10T03:26:21+00:00</lastmod>
+                 <loc>https://github.com/WebDesignSydneyAU/SWDA/blob/main/testingni/sitemap.html</loc>
+                 <lastmod>2025-03-10T03:27:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>privacy-policy.html</loc>
-                 <lastmod>2025-03-10T03:26:21+00:00</lastmod>
+                 <loc>https://github.com/WebDesignSydneyAU/SWDA/blob/main/testingni/sitemap.xml</loc>
+                 <lastmod>2025-03-10T03:27:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>feed.xml</loc>
-                 <lastmod>2025-03-10T03:26:21+00:00</lastmod>
+                 <loc>https://github.com/WebDesignSydneyAU/SWDA/blob/main/testingni/feed.xml</loc>
+                 <lastmod>2025-03-10T03:27:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.xml</loc>
-                 <lastmod>2025-03-10T03:26:21+00:00</lastmod>
+                 <loc>https://github.com/WebDesignSydneyAU/SWDA/blob/main/testingni/about-us.html</loc>
+                 <lastmod>2025-03-10T03:27:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.html</loc>
-                 <lastmod>2025-03-10T03:26:21+00:00</lastmod>
+                 <loc>https://github.com/WebDesignSydneyAU/SWDA/blob/main/testingni/news.html</loc>
+                 <lastmod>2025-03-10T03:27:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>about-us.html</loc>
-                 <lastmod>2025-03-10T03:26:21+00:00</lastmod>
+                 <loc>https://github.com/WebDesignSydneyAU/SWDA/blob/main/testingni/news/testig.html</loc>
+                 <lastmod>2025-03-10T03:27:38+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
